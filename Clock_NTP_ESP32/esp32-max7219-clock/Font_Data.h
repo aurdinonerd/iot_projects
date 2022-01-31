@@ -4,7 +4,7 @@
 
 MD_MAX72XX::fontType_t numeric7Seg[] PROGMEM = 
 {
-  0,    // 0
+  0,    // 
   0,    // 1
   0,    // 2
   0,    // 3
